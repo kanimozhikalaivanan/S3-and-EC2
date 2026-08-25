@@ -50,14 +50,15 @@ Log in using the following method:
 
 ## Output:
 
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/cdb6cc29-464b-4e61-b116-e577f26f14fe" />
+<img width="1482" height="672" alt="Screenshot 2026-08-25 084736" src="https://github.com/user-attachments/assets/cd33a119-541d-4472-abf1-41358396a5d3" />
 
 Step 3
 
 Type S3 in the search box.
 
 ## Output:
-<img width="1664" height="837" alt="Screenshot 2026-08-21 215535" src="https://github.com/user-attachments/assets/b69e5840-3793-4929-aca3-737ffece53d9" />
+
+<img width="1502" height="712" alt="Screenshot 2026-08-25 084757" src="https://github.com/user-attachments/assets/4a6b4e36-edb8-4215-a1dd-6d5e933e57a9" />
 
 Step 4
 Click Amazon S3.
@@ -65,7 +66,6 @@ Click Amazon S3.
 Step 5
 Click Create bucket.
 ## Output:
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/de689f8c-a815-4b38-8127-75ebfed9a4bc" />
 
 Step 6
 
@@ -106,14 +106,15 @@ student-cloud-storage-001
 ├── Image.jpg
 
 └── Notes.pdf
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/25df8b2c-80ca-473c-be6a-31315b553dd5" />
+<img width="1493" height="646" alt="Screenshot 2026-08-25 084707" src="https://github.com/user-attachments/assets/d28b627a-1403-4053-be7c-26371ef97dd1" />
 
 Part B – Launching an Amazon EC2 Instance
 
 Step 1
 
 Type EC2 in the AWS search bar.
-<img width="1656" height="834" alt="Screenshot 2026-08-21 220332" src="https://github.com/user-attachments/assets/179b9c5f-e9a7-4241-a804-95e4bbf9c9d7" />
+
+<img width="1347" height="695" alt="Screenshot 2026-08-25 084831" src="https://github.com/user-attachments/assets/41157201-2049-482c-873e-dd440de8ac45" />
 
 Step 2
 Open the EC2 Dashboard.
@@ -124,7 +125,6 @@ Click Launch instance.
 Step 4
 Enter the instance name.
 CloudLabVM
-<img width="1672" height="941" alt="2" src="https://github.com/user-attachments/assets/ea487fe4-ee94-4591-9b92-47c04d01263a" />
 
 Step 5
 Select the operating system.
@@ -163,6 +163,8 @@ Pending
    ↓
 Running
 
+<img width="1490" height="688" alt="Screenshot 2026-08-25 085618" src="https://github.com/user-attachments/assets/07dcb3f2-9dff-4435-86c6-7ac936a53621" />
+
 Connecting to the EC2 Instance
 Step 1
 Open EC2.
@@ -183,7 +185,9 @@ Step 6
 Execute the following command:
 echo "Hello AWS"
 
-Output
+## Output
+
+<img width="1535" height="618" alt="Screenshot 2026-08-25 085813" src="https://github.com/user-attachments/assets/7b00ae71-70a8-455d-9e91-e6b97d030bd5" />
 
 Hello AWS
 
@@ -209,7 +213,7 @@ Running
 Stopping
    ↓
 Stopped
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/519ae9b3-27c9-4ca2-b06b-74e440e23b3d" />
+
 Logging Out of AWS
 1.	Click the profile icon in the upper-right corner. 
 2.	Select Sign out. 
